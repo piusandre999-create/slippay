@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-169-ci-workflows-validate-workflow-yaml-on-every",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-169-ci-workflows-validate-workflow-yaml-on-every": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-169-ci-workflows-validate-workflow-yaml-on-every",
+    "origin"
+  ]
+}
